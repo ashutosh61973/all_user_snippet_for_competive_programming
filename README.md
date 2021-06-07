@@ -1,0 +1,1 @@
+# all_user_snippet_for_competive_programming
